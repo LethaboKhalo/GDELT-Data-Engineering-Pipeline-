@@ -46,18 +46,31 @@ The pipeline will:
 
 ## 🔄 Pipeline Workflow
 GDELT lastupdate.txt
+
         ↓
+        
 Discover Latest Files
+
         ↓
+        
 Download ZIP Files
+
         ↓
+        
 Extract ZIP Archives
+
         ↓
+        
 Load CSV Data
+
         ↓
+        
 Pandas DataFrame
+
         ↓
+        
 Transform / Analyse
+
 
 ## 📊 Datasets
 
