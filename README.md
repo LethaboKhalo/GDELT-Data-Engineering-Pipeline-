@@ -16,11 +16,17 @@ This project demonstrates how to build a Python ETL pipeline that:
 6. Prepares the data for further transformation and analysis.
 
 ## 🛠️ Technologies Used
+
 Python
+
 Pandas
+
 Requests
+
 REST/HTTP
+
 ZIP/CSV processing
+
 Jupyter Notebook
 
 ## ▶️ Running the Pipeline
@@ -31,12 +37,12 @@ python src/pipeline.py
 
 The pipeline will:
 
-Connect to the GDELT data repository
-Discover the latest files
-Download the selected datasets
-Extract the ZIP archives
-Load the data into Pandas
-Display information about the processed datasets
+1. Connect to the GDELT data repository
+2. Discover the latest files
+3. Download the selected datasets
+4. Extract the ZIP archives
+5. Load the data into Pandas
+6. Display information about the processed datasets
 
 ## 🔄 Pipeline Workflow
 GDELT lastupdate.txt
